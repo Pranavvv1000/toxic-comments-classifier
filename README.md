@@ -1,1 +1,1 @@
-# toxic-comments-classifier
+🚫 Toxic Comment Classifier Chrome Extension
